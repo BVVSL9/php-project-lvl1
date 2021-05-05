@@ -1,4 +1,5 @@
 <?php
+
   namespace php\project\lvl1\src\Cli;
 
   use function cli\line;
